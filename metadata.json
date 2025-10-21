@@ -1,0 +1,5 @@
+{
+  "name": "Aplikasi Serah Terima Dokumen Penagihan",
+  "description": "Aplikasi web untuk mengelola dan melacak serah terima dokumen penagihan keuangan, meniru format spreadsheet yang disediakan.",
+  "requestFramePermissions": []
+}
